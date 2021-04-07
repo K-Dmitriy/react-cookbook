@@ -1,8 +1,8 @@
-# react-shop-fortnite
+# react-cookbook
 
-## Deployment
+<!-- ## Deployment
 
-https://k-dmitriy.github.io/react-meal/
+https://k-dmitriy.github.io/react-cookbook/ -->
 
 ## Available Scripts
 
