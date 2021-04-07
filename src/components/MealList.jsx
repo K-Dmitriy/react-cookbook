@@ -1,10 +1,10 @@
-import MealsItem from "./MealsItem";
+import MealItem from "./MealItem";
 
 export default function MealList({ meals = [] }) {
 	return (
 		<ul className="list">
 			{meals.map((item) => {
-				return <MealsItem key={item.idMeal} {...item} />;
+				return <MealItem key={item.idMeal} {...item} />;
 			})}
 		</ul>
 	);
