@@ -7,7 +7,7 @@ export default function MealItem({ idMeal, strMealThumb, strMeal }) {
 				<img src={strMealThumb} alt={strMeal} />
 			</div>
 			<div className="card-action">
-				<Link to={`/recipe/${idMeal}`} className="btn">
+				<Link to={`/meal/${idMeal}`} className="btn">
 					Watch recipe
 				</Link>
 			</div>
