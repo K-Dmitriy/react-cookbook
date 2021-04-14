@@ -7,6 +7,7 @@ export default function CategoryItem({ strCategory, strCategoryDescription, strC
 				<img src={strCategoryThumb} alt={strCategory} />
 			</div>
 			<div className="card-content">
+				<h2 style={{ fontSize: "2rem" }}>{strCategory}</h2>
 				<p>{strCategoryDescription.slice(0, 60)}...</p>
 			</div>
 			<div className="card-action">
