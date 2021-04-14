@@ -1,8 +1,8 @@
 # react-cookbook
 
-<!-- ## Deployment
+## Deployment
 
-https://k-dmitriy.github.io/react-cookbook/ -->
+https://k-dmitriy.github.io/react-cookbook/
 
 ## Available Scripts
 
